@@ -1,16 +1,55 @@
 {
   "context": {
-    "projectPath": "D:/Grupo e/Delivery03_GroupE/Delivery03_Template/Packages",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "projectPath": "C:/Users/Fernando/Desktop/Delivery01_GroupE/.git/Delivery03_GroupE/Delivery03_Template/Packages",
     "unityVersion": "6000.0.33f1"
   },
   "inputs": [
-    "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Packages\\manifest.json",
-    "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Packages\\packages-lock.json"
+    "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Packages\\manifest.json",
+    "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Packages\\packages-lock.json"
+=======
+    "projectPath": "C:/Users/Usuario/Downloads/Delivery03_GroupE/Delivery03_Template/Packages",
+    "unityVersion": "6000.0.33f1"
+  },
+  "inputs": [
+    "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Packages\\manifest.json",
+    "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Packages\\packages-lock.json"
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+    "projectPath": "C:/Users/Usuario/Downloads/Delivery03_GroupE/Delivery03_Template/Packages",
+    "unityVersion": "6000.0.33f1"
+  },
+  "inputs": [
+    "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Packages\\manifest.json",
+    "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Packages\\packages-lock.json"
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+    "projectPath": "C:/Users/Usuario/Downloads/Delivery03_GroupE/Delivery03_Template/Packages",
+    "unityVersion": "6000.0.33f1"
+  },
+  "inputs": [
+    "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Packages\\manifest.json",
+    "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Packages\\packages-lock.json"
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
   ],
   "outputs": {
     "com.unity.ide.visualstudio@2.0.22": {
       "name": "com.unity.ide.visualstudio",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ide.visualstudio",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ide.visualstudio",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ide.visualstudio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ide.visualstudio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ide.visualstudio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
       "editorCompatibility": "2019.4.25f1",
       "version": "2.0.22",
@@ -18,7 +57,19 @@
     },
     "com.unity.inputsystem@1.11.2": {
       "name": "com.unity.inputsystem",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.inputsystem",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.inputsystem",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.inputsystem",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.inputsystem",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.inputsystem",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "fingerprint": "3c4a97c3950fef77960981e0fe90613de6e512ee",
       "editorCompatibility": "2019.4.0a1",
       "version": "1.11.2",
@@ -26,7 +77,19 @@
     },
     "com.unity.test-framework@1.4.5": {
       "name": "com.unity.test-framework",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.test-framework",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.test-framework",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.test-framework",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.test-framework",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.test-framework",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
       "editorCompatibility": "2019.4.0a10",
       "version": "1.4.5",
@@ -34,7 +97,19 @@
     },
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ugui",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ugui",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ugui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ugui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ugui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "fingerprint": "fd5da3b4bec8d043b01c30177bd62059c5fa36d0",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
@@ -42,211 +117,631 @@
     },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.accessibility",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.accessibility",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.accessibility",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.accessibility",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.accessibility",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ai",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ai",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ai",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ai",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ai",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.androidjni",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.androidjni",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.androidjni",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.androidjni",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.androidjni",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.animation",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.animation",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.animation",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.animation",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.animation",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.assetbundle",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.assetbundle",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.assetbundle",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.assetbundle",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.assetbundle",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.audio",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.audio",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.audio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.audio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.audio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.cloth",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.cloth",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.cloth",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.cloth",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.cloth",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.director",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.director",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.director",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.director",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.director",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imageconversion",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imageconversion",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imageconversion",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imageconversion",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imageconversion",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imgui",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imgui",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imgui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imgui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.imgui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.particlesystem",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.particlesystem",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.particlesystem",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.particlesystem",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.particlesystem",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics2d",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics2d",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics2d",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics2d",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.physics2d",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.screencapture",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.screencapture",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.screencapture",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.screencapture",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.screencapture",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrain",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrain",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrain",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrain",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrain",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.tilemap",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.tilemap",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.tilemap",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.tilemap",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.tilemap",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ui",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ui",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.ui",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.uielements",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.uielements",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.uielements",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.uielements",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.uielements",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.umbra",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.umbra",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.umbra",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.umbra",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.umbra",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vehicles",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vehicles",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vehicles",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vehicles",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vehicles",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.video",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.video",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.video",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.video",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.video",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vr",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vr",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vr",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vr",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.vr",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.wind",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.wind",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.wind",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.wind",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.wind",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.xr",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.xr",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.xr",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.xr",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.xr",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.subsystems",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.subsystems",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.subsystems",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.subsystems",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.subsystems",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
-      "resolvedPath": "D:\\Grupo e\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ext.nunit",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "resolvedPath": "C:\\Users\\Fernando\\Desktop\\Delivery01_GroupE\\.git\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ext.nunit",
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ext.nunit",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ext.nunit",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
+=======
+      "resolvedPath": "C:\\Users\\Usuario\\Downloads\\Delivery03_GroupE\\Delivery03_Template\\Library\\PackageCache\\com.unity.ext.nunit",
+>>>>>>> 35691870ddecf47cf5c8cf8b85dc4403731ff1fa
       "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
